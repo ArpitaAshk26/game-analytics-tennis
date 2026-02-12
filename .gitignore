@@ -1,0 +1,30 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Database
+*.db
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+```
+
+### 2. `LICENSE` (MIT License)
+```
+MIT License
+
+Copyright (c) 2026 [Ish]
+
+Permission is hereby granted, free of charge...
